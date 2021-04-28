@@ -1,0 +1,34 @@
+signature: |
+  0xb26e638663d445c1720168fffde90270157b7561f38f08cbbae9097c44c53fc9:tmDVU4PX347/kkC4ijWQW2vP6dClrkVEmOfP0fUN8CxM9VmyYbqxRJdqv+XuzB1S395jv7BGVjY4TQcIdRMYCg==
+---
+object: user
+owner: '0xb26e638663d445c1720168fffde90270157b7561f38f08cbbae9097c44c53fc9'
+paths:
+- /wildland/dirs/kartoteka
+infrastructures:
+- object: link
+  file: /.manifests.yaml
+  storage:
+    encrypted:
+      encrypted-data: I50s2TEA9KoQFivTPbW+Uqb0NgqLh/FrOfFV8+vvGqDEIb/dA/mXmckD9x4MwMRTZIbSJDYehTJ6CZhF8gj0A7loiydf3K60A3innFv/xvg5wJXgal0XkJjXe0cNLvt7Gw+epHLA3W32Ez1NWJ4cHSFeqyAH+4B0Iw5r8yo0e4GI0IXhDaj3uXbqtTRb9tPvwsAphnZUKYpqOcERGceukH0tphB9AIDwZX8Xk2HrexJCHl+P+SGXAO7SliclSPjg6p4uJrAPN+0mfYlwHmDiR7fF9sa64Q4jGf3d/StJl7CZALRHB1D6598iDKWANg1ZF8MzZGHmtZ5QVKaoTBYIHEjF8Yg8a/Vbk6x8rCXwsn7k02TSHh8yvgJ3mW+IrlvoTqeu6QA5ePrbzWbG3EV5M72PpvmxdypEWhfk+2oeqnsNKqNzjcvTmtZGXkxIU9hsb62J6oimf1vlhFjh1KUJrMGXhe2Xva//oglhNc6S7KF1STExr6Lrbvw8RcMt23xF0cnMmRXaO5PHRLvk66HEljRj3XSpTF7fmYl3ZTNpPXbux9abuDNlb7mSMv5BQzrxV3SFDifakY8sb2j7jthSDFxBIVStKAFbzpihm14+eMyA+B5UcbXaD7s0YFMA1dOadbNXVGb5/gQdfMMi6XZiVmst2pfynHWPnUkP4w+YmKjTqg7taywlbh+lHbx7Khl43L5w9XVndQXqOocGtqBA6aDPQmSjFXXrN1i8AiTgUHVL75SvrZALf3BS77c80YeR91P3v1Nb4tQRQggHczg1zxLYhVuhJLJXgRPKDcdO67bdTj09pSWSTgOSsliB0v17VnpCb6pdOxUMThKqtxG6Jg==
+      encrypted-keys:
+      - aoDVappwcJ6oLrhofizx6nogRiz28zkzs7XbzIU+ZwRmJAw+O4kUrqLo+5+5KMEWSyu3BF81yoTOI9YWm4wLsSr6Z5piBDtCaM8Foq2pwQ8=
+      - hwWe9WhvGqFkVu7ijatWCtYjuhk8qW/EZ1eq0WngYh7c/8ihIDcf/oaa8rjHmLRY29xR3hcWGwg9YkBWUYkAbpUM8YVKlmrJWCfmz1b13WA=
+      - mgyaonXztyaoBvBaTn6/j03Dw5WuAkiErDWMZyLQ8mN+XmyOkWawASDoDcKGfUjIyGd8rQNyXecXuJhNfyOOzyQNHDq2ndboRaNZcwIFMis=
+      - 3PfGJouJLJqolny0/3qR1edGS7a5WfjeVaiJQYS0Y3vRPbvUbae8A25xLnGJez5oqNB+DtskGdGhBIThjtImP9bVgLIsOtKW5aRPTH6zk38=
+      - QRO0U4ZNtS7nTmQVnS1eNwvryiHQsL1uNplejsA7ZVNAPtXQuzVSLmA8p7THEtev3ocrFvZtcBV+hqCB1CFa+ru4dcbwKzhNs811nhFhU2k=
+      - q0ECH6M/GecytwVOI93LfH0ua+3rKGVYhFerOo7a20mKRUc/FWPXoHmiaoRW6cbD0GxxMM8rI9cS1IQlJVSgQAmTYeqkkgFQmnfMEgdF69I=
+      - RsoJLzI4MmpvX6smo9r5LBTkgXvuH6+7TZAY30YmbyITUncAsPgRpmVaLBUQoN2jvlPkhlHniSn1yl5EOzupMZvUyoJy+v56+QRtOvfI+HA=
+      - yt2fJtnTTEyxIczTrg4Qyyz8FHkPfN2E6bPpiIJxUlvj3E2fCRvfekjAQxI7Zy22VaO78IhnofFT4wlZrGZRHjdxDMfOjgxRBDRxsoh58aQ=
+      - Jk9FOgKA1761ClaRt+ccb555KKq9Ug4VhKshu/WX5AEm/iY/QIiwE3C42FrJnJ9/8tcgEYBakRW8k6P1oKHYiUOGey76VH76hA06vXirNLs=
+      - opUqE8TZP+4zo0p+AJC06X4UCIBrRjaefJFEBfrZ4242w5jRcJ/RSdgxfY6sQWT6bBidAbYvn2tmsBkooGhCDhbz0b7bfZ2ddRzNT0YnKu4=
+      - lKWJagg7mnqan/OHPA/tlSL+lmXQ1FMiyXzmRm2HmT8yG3kLZeBsHmLPp9+B/sroJZN2R+0VYYmHcjreSp1IBCCKom6Jf6rPcB66tz3cc6Q=
+      - H+Z+g3kNr5fjzaB85eObHLkuoHFjRIFlVw0HgjonC3D4bPlMsV1h1o+k0PZTDU1ywTnClC6uc4BLyHYLsJRVjH0xT2BtRMPqyBp7e/qNIq0=
+      - StDJW/hAeAzL9IhExfQkcp0KtlQcUlTk0a3rQtT7YGvDfFfhZ3WqiUf+egRF5bI9/mes2BemHOdFV+Q2eCtC9sm+Ou+6l3hwk7+AAmbvhoM=
+      - Zcu6qxnZfKywkdaClrOeyjov6E8qjv++MIrgRPlXmD8njbhxIrRvwh2Vtb0YNrvj90EYDaEGNDms+ShXIpFcgJCMf0R5Dpo4CUDt/M5x/qY=
+      - qlWppNobNSPFibeXJW4jpJ0JRNC/Josp+jeEJH9II1M4p3wAlHtRpyUnEEnJRfUdUoYTkHJDjdJdUJ8ycT1ZhgrhXjc+2Bm1D+yqu51PYKU=
+      - ddj+F6Xx8mwFE3UCSwoQyVorDNUmXBrNTDWzNhe5dlNr4CkudUZpWkH4jtMLktieDYAV5aynS7tiZn1q48ZlBJXedilsOool/VCkqL08FU0=
+      - OKhcHwJ7vJ0NmtFXaCj2gk/hPxOI3rR/ozYT1RzGtyT0CVwp96g9kCmMbJTR7Izd514/w7uRYDKY2K8JSyKvNk0hFUSn+Ywk9iqrmBgYFuE=
+pubkeys:
+- RWSJHiWNxJ/f7bqx72HL5Vq3A/i8jN3LzH0hgH4lv61Wt35NNHXph26A0t436Gl2bi+XX7T6vmrNL3t5bKUhbuB0
+version: '1'
