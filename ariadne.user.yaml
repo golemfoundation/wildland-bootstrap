@@ -1,0 +1,23 @@
+signature: |
+  0x30c9856e7d1903d80f201afb90f33741fafa870c9c5a656134bcf5a42312febd:lpPIkw+JbjzV5n3wodFkSP7AV/K/0gxnqrj2RRQKpZkmif2XCAv/a6gZAkjWU90gIv820fx7s4vc1FslKxHtAQ==
+---
+object: user
+owner: '0x30c9856e7d1903d80f201afb90f33741fafa870c9c5a656134bcf5a42312febd'
+paths:
+- /users/ariadne
+manifests-catalog:
+- object: link
+  file: /.manifests.yaml
+  storage:
+    access:
+    - user: '*'
+    read-only: true
+    type: http
+    url: https://d2zyh8svhk1786.cloudfront.net
+    backend-id: 054cd8b7-1862-4842-b9de-29c188581ac9
+    manifest-pattern:
+      path: /{path}.yaml
+      type: glob
+pubkeys:
+- RWRvTwmnHy6wU1Sfw/bPIPgPce5CY2ljPUugBxfq0v2QIt8RjZKf4MVJmKDcp60NsPNGopCDa8/khJt4LsNivixT
+version: '1'
